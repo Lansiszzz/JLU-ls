@@ -33,7 +33,7 @@ main: #简历主要内容，
   - title: 吉林大学
     duration: "2021年8月至今"
     sub: 吉林长春 硕士研究生
-detail: 地质工程专业
+    detail: 地质工程专业
 
   - title: 吉林大学
     duration: "2017年9月 - 2021年6月"
@@ -43,7 +43,7 @@ detail: 地质工程专业
 - type: skills
   name: "专业技能"
   content:
-  - title: 熟练掌握PFC与Python的使用
+  - title: PFC、Python
 
 
 - type: research direction #类别为ID
