@@ -43,7 +43,7 @@ detail: 地质工程专业
 - type: skills
   name: "专业技能"
   content:
-  - title: 熟练掌握PFC与Python
+  - title: 熟练掌握PFC与Python的使用
 
 
 - type: research direction #类别为ID
